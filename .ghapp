@@ -1,0 +1,10 @@
+{
+  "id": 184925093,
+  "created_at": "2026-11-23T08:22:45.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["zoulouzaza76.r-universe.dev"]
+}
