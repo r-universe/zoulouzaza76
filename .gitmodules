@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/zoulouzaza76/zoulouzaza76.r-universe.dev
 	branch = HEAD
+[submodule "srtcleanerfr"]
+	path = srtcleanerfr
+	url = https://github.com/zoulouzaza76/r-srtcleanerfr
